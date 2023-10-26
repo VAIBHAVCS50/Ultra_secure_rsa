@@ -25,8 +25,8 @@ Welcome to the Ultra-Secure Voice Data Encryption project, where we combine adva
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/YourUsername/Ultra-Secure-Voice-Encryption.git`
-2. Install the required dependencies (e.g., Python, libraries, or any specific requirements).
+1. Clone the repository: `git clone https://github.com/https://github.com/VAIBHAVCS50/Ultra_secure_rsa.git/Ultra-Secure-Voice-Encryption.git`
+2. Install the required dependencies.
 3. Run the application by following the instructions in the [Usage](#usage) section.
 
 ## Usage
@@ -42,8 +42,6 @@ To get started with the project, follow these steps:
 Our modified RSA encryption uses a unique combination of three numbers to create a highly secure encryption key. Additionally, your voice data undergoes a rigorous hashing and salting process to ensure the utmost security.
 
 ## Use Case
-
-**Engage your users with a compelling use case:**
 
 Imagine a scenario where you need to securely store sensitive voice recordings, such as confidential meetings or personal notes. Our Ultra-Secure Voice Data Encryption system ensures that your voice data remains confidential and inaccessible to unauthorized parties. Whether you're a journalist protecting your sources or a professional safeguarding your business discussions, this project provides a solution that combines cutting-edge encryption techniques with the ease of voice capture.
 
