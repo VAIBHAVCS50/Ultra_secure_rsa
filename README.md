@@ -12,9 +12,6 @@ Welcome to the Ultra-Secure Voice Data Encryption project, where we combine adva
 - [Usage](#usage)
 - [Encryption Details](#encryption-details)
 - [Use Case](#use-case)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Modified RSA Encryption**: We employ a customized RSA algorithm that uses three numbers to encrypt your voice data, providing exceptional security.
@@ -56,8 +53,5 @@ With Ultra-Secure Voice Data Encryption, your voice data remains yours and yours
 
 ## Contributing
 
-We welcome contributions from the open-source community. If you'd like to contribute to this project, please read our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions from the open-source community. If you'd like to contribute to this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
